@@ -1,0 +1,33 @@
+
+.container{
+    height: 509px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 1rem;
+}
+.top{
+    height: 200px;
+    border-bottom: 1px solid #ccc;
+}
+img{
+    height: 200px;
+}
+
+.down{
+    padding: 1rem;
+}
+.down h2{
+    font-size: 22px;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #ccc;
+}
+.bottom .first{
+    display: flex;
+}
+.bottom p{
+    margin: 10px 15px;
+}
